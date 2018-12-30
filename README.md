@@ -12,6 +12,6 @@ detection.  Instead of stack-smashing and moving on, it will detect buffer overf
 without overflowing the buffers.  (Using the VM lets you play with the exploits).
 
 
-##Related Links
+## Related Links
 * http://www.nostarch.com/hackingCD.htm (get the live linux disc)
 * http://www.amazon.com/Hacking-The-Art-Exploitation-Edition/dp/1593271441 - buy your own copy
