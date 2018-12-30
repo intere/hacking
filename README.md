@@ -13,5 +13,5 @@ without overflowing the buffers.  (Using the VM lets you play with the exploits)
 
 
 ## Related Links
-* http://www.nostarch.com/hackingCD.htm (get the live linux disc)
-* http://www.amazon.com/Hacking-The-Art-Exploitation-Edition/dp/1593271441 - buy your own copy
+* get the live linux disc: [downlooad here](https://www.dropbox.com/s/eho0p2q8oaz53h1/hacking-live-1.0.iso?dl=0)
+* http://www.amazon.com/Hacking-The-Art-Exploitation-Edition/dp/1593271441 - buy your own copy of the book
